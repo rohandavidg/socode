@@ -1842,6 +1842,11 @@ def AtheistCat():
 def elebumm():
     print "I am new to this."
 
+
+def rohandavidg(size=0, string='vanakum fatty :D'):
+    print '\n'.join(string for i in range(1,size))
+
+
 # Please consider creating your function
 # some random place between two other
 # functions instead of right here.
@@ -1882,6 +1887,7 @@ if __name__ == "__main__":
     marsman12019()
     rypeck()
     awesoham(100)
+    rohandavidg(50)
     dmercer(42)
     ryanseys()
     devonbarrett()

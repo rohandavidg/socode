@@ -1,0 +1,11 @@
+2014-10-26 10:12:39,260 : INFO : Starting new HTTPS connection (1): raw.github.com
+2014-10-26 10:12:39,651 : DEBUG : "GET /sricola/socode/master/socode.py HTTP/1.1" 301 0
+2014-10-26 10:12:39,652 : INFO : Starting new HTTPS connection (1): raw.githubusercontent.com
+2014-10-26 10:12:39,880 : DEBUG : "GET /sricola/socode/master/socode.py HTTP/1.1" 200 21015
+2014-10-26 10:12:39,941 : INFO : I just added logging support for this important project!
+2014-10-26 10:12:39,951 : INFO : Starting new HTTP connection (1): ovalerio.net
+2014-10-26 10:12:40,423 : DEBUG : "GET /socode-counter/?name=socode HTTP/1.1" 403 336
+2014-10-26 10:12:46,618 : INFO : Starting new HTTP connection (1): freegeoip.net
+2014-10-26 10:12:47,161 : DEBUG : "GET /json/ HTTP/1.1" 200 None
+2014-10-26 10:12:47,164 : INFO : Starting new HTTP connection (1): api.openweathermap.org
+2014-10-26 10:12:48,167 : DEBUG : "GET /data/2.1/find/name?q=Pearland HTTP/1.1" 200 None
